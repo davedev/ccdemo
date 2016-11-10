@@ -1,6 +1,6 @@
 David Polis - Comcast Pre-Hire "DevOps Project" 
 
-	Step-by-step supplement to the git repo at 
+	Step-by-step supplement to the git repo at davedev/ccdemo
 
 1. Build Ansible server
 	AWS console:
