@@ -18,5 +18,6 @@ NOTE: The "Hello World" instance is up at this URL: http://ccdemo.polis.tech
 		WILL REDIRECT TO HTTPS AS REQUESTED
 		BROWSER NAG FOLLOWS DUE TO SELF-SIGNED CERTIFICATE
 	
-	
+*Commits direct from the AWS instances were messy in this context, so I decided to drag and drop to streamline your ability to parse the information here, across servers, from one repo.  In production I would be versioning, commit/exclude/push etc.	
+
 -Dave Polis
